@@ -1008,3 +1008,7 @@ footer {
     width: auto;
   }
 }
+
+.mrowka {
+  box-shadow: rgba(0,0,0,0.4) 10px 10px inset
+}
